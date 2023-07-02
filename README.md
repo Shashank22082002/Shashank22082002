@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A backend developer and passionate CPer'😃</h3>
+<h1 align="left">Hi 👋, I'm Shashank</h1>
+<h3 align="left">I'm a backend developer and passionate CPer'😃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank22082002&label=Profile%20views&color=0e75b6&style=flat" alt="shashank22082002" /> </p>
 
