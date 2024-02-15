@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank22082002&label=Profile%20views&color=0e75b6&style=flat" alt="shashank22082002" /> </p>
 
-- 🔭 I’m currently working on Softening shard allocation limits in elasticsearch [(ref)](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/allocation-total-shards.html) and [CF-PRO](cf-pro.vercel.app)
+- 🔭 I'm currently working on building applications using BOT Framework SDK, and microsoft graph API's for microsoft teams.
+
+- 🔭 I’m recently worked on Softening shard allocation limits in elasticsearch [(ref)](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/allocation-total-shards.html) and [CF-PRO](cf-pro.vercel.app)
 
   
-- 🌱 I’m currently learning **spring framework, elastic search stack.**
+- 🌱 I’m currently learning **spring framework, python.**
 
 
 
