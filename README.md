@@ -1,15 +1,17 @@
 <h1 align="left">Hi 👋, I'm Shashank</h1>
-<h3 align="left">I'm a backend software developer</h3>
+<h3 align="left">I'm a Backend Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank22082002&label=Profile%20views&color=0e75b6&style=flat" alt="shashank22082002" /> </p>
 
-- 🔭 I'm currently working on building applications using BOT Framework SDK, and microsoft graph API's for microsoft teams.
+- 🔭 Currently exploring [Linkerd](https://linkerd.io/), with a focus on [Linkerd Multicluster Communications (LMC)](https://linkerd.io/2-edge/features/multicluster/), to strengthen cloud infrastructure with lightweight, secure, and production-ready service mesh capabilities.
 
-- 🔭 I’m recently worked on Softening shard allocation limits in elasticsearch [(ref)](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/allocation-total-shards.html) and [CF-PRO](cf-pro.vercel.app)
+- ⚙️ Recently delved into the internals of **Elasticsearch**, specifically working with shard allocation and cluster performance tuning [(reference)](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/allocation-total-shards.html).
 
-  
-- 🌱 I’m currently learning **spring framework, python.**
+- 🌱 Actively working **Spring Framework** to build enterprise-grade Java applications, and improving fluency in **Python** for automation, scripting, and backend services.
 
+- ☁️ Passionate about **cloud-native technologies**, **DevOps best practices**, and **infrastructure as code** — with hands-on experience in Kubernetes, Docker, and CI/CD pipelines.
+
+- 💻 Built a cool tool for passionate CPer's — **[CF-PRO](https://cf-pro.vercel.app)** Give it a spin!
 
 
 <h3 align="left">Connect with me:</h3>
