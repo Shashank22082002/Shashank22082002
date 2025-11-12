@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank22082002&label=Profile%20views&color=0e75b6&style=flat" alt="shashank22082002" /> </p>
 
-- 🔭 Currently exploring [Linkerd](https://linkerd.io/), with a focus on [Linkerd Multicluster Communications (LMC)](https://linkerd.io/2-edge/features/multicluster/), to strengthen cloud infrastructure with lightweight, secure, and production-ready service mesh capabilities.
+- 🔭 Worked on [Linkerd](https://linkerd.io/), with a focus on [Linkerd Multicluster Communications (LMC)](https://linkerd.io/2-edge/features/multicluster/), to strengthen cloud infrastructure with lightweight, secure, and production-ready service mesh capabilities.
 
 - ⚙️ Recently delved into the internals of **Elasticsearch**, specifically working with shard allocation and cluster performance tuning [(reference)](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/allocation-total-shards.html).
 
